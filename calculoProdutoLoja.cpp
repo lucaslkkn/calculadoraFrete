@@ -139,6 +139,7 @@ void finalizarVenda() {
 int main(void) {
     setlocale(LC_ALL, "Portuguese");
     
+    printf("================================\n")
     printf("=== BEM-VINDO A LKKN STORE ===\n");
     
     // Seleciona o produto
